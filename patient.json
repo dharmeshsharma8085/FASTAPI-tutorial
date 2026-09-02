@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "name": "Rahul Sharma",
+    "age": 24,
+    "gender": "Male",
+    "blood_group": "B+",
+    "city": "Jaipur",
+    "admitted": false
+  },
+  {
+    "id": 102,
+    "name": "Priya Singh",
+    "age": 31,
+    "gender": "Female",
+    "blood_group": "O+",
+    "city": "Delhi",
+    "admitted": true
+  },
+  {
+    "id": 103,
+    "name": "Aman Verma",
+    "age": 45,
+    "gender": "Male",
+    "blood_group": "A+",
+    "city": "Mumbai",
+    "admitted": true
+  },
+  {
+    "id": 104,
+    "name": "Neha Gupta",
+    "age": 28,
+    "gender": "Female",
+    "blood_group": "AB+",
+    "city": "Pune",
+    "admitted": false
+  },
+  {
+    "id": 105,
+    "name": "Rohit Meena",
+    "age": 52,
+    "gender": "Male",
+    "blood_group": "O-",
+    "city": "Kota",
+    "admitted": true
+  }
+]
