@@ -2,46 +2,46 @@
   {
     "id": 101,
     "name": "Rahul Sharma",
+    "city": "Jaipur",
     "age": 24,
     "gender": "Male",
-    "blood_group": "B+",
-    "city": "Jaipur",
-    "admitted": false
+    "height": 5.8,
+    "weight": 68.5
   },
   {
     "id": 102,
     "name": "Priya Singh",
+    "city": "Delhi",
     "age": 31,
     "gender": "Female",
-    "blood_group": "O+",
-    "city": "Delhi",
-    "admitted": true
+    "height": 5.4,
+    "weight": 58.2
   },
   {
     "id": 103,
     "name": "Aman Verma",
+    "city": "Mumbai",
     "age": 45,
     "gender": "Male",
-    "blood_group": "A+",
-    "city": "Mumbai",
-    "admitted": true
+    "height": 5.9,
+    "weight": 76.8
   },
   {
     "id": 104,
     "name": "Neha Gupta",
+    "city": "Pune",
     "age": 28,
     "gender": "Female",
-    "blood_group": "AB+",
-    "city": "Pune",
-    "admitted": false
+    "height": 5.5,
+    "weight": 61.4
   },
   {
     "id": 105,
     "name": "Rohit Meena",
+    "city": "Kota",
     "age": 52,
     "gender": "Male",
-    "blood_group": "O-",
-    "city": "Kota",
-    "admitted": true
+    "height": 5.7,
+    "weight": 82.3
   }
 ]
