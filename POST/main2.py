@@ -275,7 +275,7 @@ def create_patient(patient: Patient):
             detail="Patient already exists"
         )
 
-
+  
     # Add new patient
 
     data[str(patient.id)] = patient.model_dump(
